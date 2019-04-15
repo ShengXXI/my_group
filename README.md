@@ -1,4 +1,13 @@
-#Link: http://localhost/my_group, http://localhost:8080/my_group or http://localhost:8080/my_group/groups/index
+# Link: http://localhost/my_group, http://localhost:8080/my_group or http://localhost:8080/my_group/groups/index
+![1](https://user-images.githubusercontent.com/48238163/56148547-bb348e80-5fd4-11e9-8589-e5bcf42096ba.PNG)
+![2](https://user-images.githubusercontent.com/48238163/56148589-d43d3f80-5fd4-11e9-8fe8-d8c2c1fc0dde.PNG)
+![3](https://user-images.githubusercontent.com/48238163/56148617-e28b5b80-5fd4-11e9-9a24-6a4e7fc08435.PNG)
+# Add
+![add](https://user-images.githubusercontent.com/48238163/56148653-ef0fb400-5fd4-11e9-8bf8-4255112fca18.PNG)
+# Edit
+![Edit](https://user-images.githubusercontent.com/48238163/56148681-fc2ca300-5fd4-11e9-9b68-280b9a666101.PNG)
+# View
+![view](https://user-images.githubusercontent.com/48238163/56148694-0484de00-5fd5-11e9-835f-e73bbe6f6cee.PNG)
 
 # CakePHP Application Skeleton
 
