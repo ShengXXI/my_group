@@ -1,4 +1,4 @@
-#Đăng nhập vào http://localhost/my_group
+#Link: http://localhost/my_group, http://localhost:8080/my_group or http://localhost:8080/my_group/groups/index
 
 # CakePHP Application Skeleton
 
